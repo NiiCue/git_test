@@ -1,4 +1,4 @@
-// main.cpp - 简单计算器程序 v2.0 (feature-power分支)
+// main.cpp - 计算器程序 v2.0 (feature-power分支)
 #include <iostream>
 #include <cmath>
 using namespace std;
